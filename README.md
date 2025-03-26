@@ -1,4 +1,2 @@
-# group-project
-the group project
-this is a test
-this too is a test
+# Study Tracker
+Make sure to install opencv-python and numpy in pip to use.
