@@ -2,7 +2,7 @@ def eyeDetection():
     import numpy as np
     import cv2 as cv
     eye_casc=cv.CascadeClassifier('haarcascade_eye.xml')
-    face_casc=cv.CascadeClassifier('haarcascade_frontalface_defaults.xml')
+    face_casc=cv.CascadeClassifier('haarcascade_frontalface_default.xml')
     color=(0,255,0)
     thickness=2
 
